@@ -1,6 +1,12 @@
-default:
+base16:
   extension: .conf
   output: colors
-default-256:
-  extension: -256.conf
+base16-256:
+  extension: .conf
+  output: colors-256
+base24:
+  extension: .conf
   output: colors
+base24-256:
+  extension: .conf
+  output: colors-256
