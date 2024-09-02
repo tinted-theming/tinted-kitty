@@ -1,12 +1,16 @@
 base16:
   extension: .conf
   output: colors
+  supported-systems: [base16]
 base16-256:
   extension: .conf
   output: colors-256
+  supported-systems: [base16]
 base24:
   extension: .conf
   output: colors
+  supported-systems: [base24]
 base24-256:
   extension: .conf
   output: colors-256
+  supported-systems: [base24]
