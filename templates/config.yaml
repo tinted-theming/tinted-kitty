@@ -1,20 +1,16 @@
 base16:
-  extension: .conf
-  output: colors
+  filename: colors/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base16]
 
 base24:
-  extension: .conf
-  output: colors
+  filename: colors/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base24]
 
 # Deprecated templates
 base16-256-deprecated:
-  extension: .conf
-  output: colors-256
+  filename: colors-256/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base16]
 
 base24-256-deprecated:
-  extension: .conf
-  output: colors-256
+  filename: colors-256/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base24]
