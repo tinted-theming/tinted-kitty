@@ -1,5 +1,11 @@
 # tinted-kitty
 
+**Deprecated**: tinted-kitty and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 A set of [Tinted Theming] scheme templates for the [kitty] terminal
 emulator. These templates can be used with any compliant Base16 builder.
 
